@@ -1,4 +1,3 @@
-![Analytical SQL Patterns Banner](assets/banner.png)
 
 # 📊 Analytical SQL Patterns for Data Engineering
 
